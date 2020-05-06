@@ -7,7 +7,7 @@ In Spring application by default "<b>application context</b>" eagerly creates an
 
 ### Spring provides two easy ways to configure lazy initialization of beans 
 <ol>
-  <li>java based configuration</li>
+  <li>Java based configuration</li>
    <li>XML based configuration</li>
 </ol>
 
